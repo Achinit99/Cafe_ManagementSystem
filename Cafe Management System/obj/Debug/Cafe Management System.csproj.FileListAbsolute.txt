@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Person1.resources
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.PayBill.resources
+C:\Users\lenovo\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.menu.resources
